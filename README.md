@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # angular
 
 This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
@@ -34,3 +35,7 @@ To setup this project in Jenkins, use the following configuration:
     * Publish JUnit test result report / Test Report XMLs: `build/test-results/*.xml`
 
 [JHipster]: https://jhipster.github.io/
+=======
+# jHipster
+An angular app
+>>>>>>> e6ed2d4f1a4230ee6394a323f5017e4de5759504
