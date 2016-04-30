@@ -1,0 +1,2 @@
+# jHipster
+An angular app
